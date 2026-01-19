@@ -7,7 +7,7 @@
    escritura y la publicación web.
 2. Historia y origen del lenguajeMarkdown fue creado en 2004 por John Gruber, con la colaboración de
    Aaron Swartz.El problema: Gruber quería una forma de escribir para la web que no requiriera redactar etiquetas HTML manualmente
-   (como <h1> o <b>), las cuales interrumpen el flujo creativo.La inspiración: Se basó en las convenciones existentes que la gente ya
+   (como), las cuales interrumpen el flujo creativo.La inspiración: Se basó en las convenciones existentes que la gente ya
   usaba en los correos electrónicos de texto plano de la época (como usar asteriscos para dar énfasis).
 olución: Aunque la especificación original de Gruber se mantiene, con el tiempo surgieron variantes o "sabores" (flavors) para
 añadir funciones extras, siendo GitHub Flavored Markdown (GFM) la más popular hoy en día.
